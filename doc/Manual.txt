@@ -1,103 +1,103 @@
 ===============================================================================
 
-@Actor83.1 / version $version$
+ã€€Actor83.1 / version $version$
 
 ===============================================================================
 
 
-¡ƒ\ƒtƒg‚ÌŠT—v
+â– ã‚½ãƒ•ãƒˆã®æ¦‚è¦
 
-@“~–°’†B
-
-
-¡’ˆÓ
-
-@‚±‚Ìƒ\ƒtƒg‚ÍAƒtƒŠ[‰æ‘œ‘fÞEƒtƒŠ[‰¹ŠyiŒø‰Ê‰¹j‘fÞ‚ðŽg—p‚µ‚Ä‚Ü‚·B
-@‚±‚Ìƒ\ƒtƒg“à‚ÅŽg—p‚³‚ê‚Ä‚¢‚é‰æ‘œE‰¹ŠyiŒø‰Ê‰¹j‚ðA‚±‚ÌƒQ[ƒ€‚ð—V‚ÔˆÈŠO‚Ì—p“r‚É‚ÍŽg—p‚µ‚È‚¢‚Å‰º‚³‚¢B
+ã€€å†¬çœ ä¸­ã€‚
 
 
-¡“®ìŠÂ‹«
+â– æ³¨æ„
 
-@Windows 10
-@Šm”F‚µ‚Ä‚¢‚Ü‚¹‚ñ‚ª Windows 7/8/8.1 ‚Å‚à“®‚­‚©‚à‚µ‚ê‚Ü‚¹‚ñB
-
-@DirectX 9.0 ˆÈ~
-@2DƒQ[ƒ€‚ª‰õ“K‚É“®ì‚·‚éCPU
-@Direct Graphic ‘Î‰ž‚ÌƒrƒfƒIƒJ[ƒh
-@Direct Sound ‘Î‰ž‚ÌƒTƒEƒ“ƒhƒJ[ƒh
+ã€€ã“ã®ã‚½ãƒ•ãƒˆã¯ã€ãƒ•ãƒªãƒ¼ç”»åƒç´ æãƒ»ãƒ•ãƒªãƒ¼éŸ³æ¥½ï¼ˆåŠ¹æžœéŸ³ï¼‰ç´ æã‚’ä½¿ç”¨ã—ã¦ã¾ã™ã€‚
+ã€€ã“ã®ã‚½ãƒ•ãƒˆå†…ã§ä½¿ç”¨ã•ã‚Œã¦ã„ã‚‹ç”»åƒãƒ»éŸ³æ¥½ï¼ˆåŠ¹æžœéŸ³ï¼‰ã‚’ã€ã“ã®ã‚²ãƒ¼ãƒ ã‚’éŠã¶ä»¥å¤–ã®ç”¨é€”ã«ã¯ä½¿ç”¨ã—ãªã„ã§ä¸‹ã•ã„ã€‚
 
 
-¡ƒCƒ“ƒXƒg[ƒ‹•û–@
+â– å‹•ä½œç’°å¢ƒ
 
-@ƒA[ƒJƒCƒu‚Ì’†g‚ðƒ[ƒJƒ‹ƒfƒBƒXƒNã‚Ì”CˆÓ‚ÌêŠ‚ÉƒRƒs[‚µ‚Ä‰º‚³‚¢B
+ã€€Windows 10
+ã€€ç¢ºèªã—ã¦ã„ã¾ã›ã‚“ãŒ Windows 7/8/8.1 ã§ã‚‚å‹•ãã‹ã‚‚ã—ã‚Œã¾ã›ã‚“ã€‚
 
-
-¡ƒAƒ“ƒCƒ“ƒXƒg[ƒ‹•û–@
-
-@ƒŒƒWƒXƒgƒŠ‚È‚Ç‚ÍˆêØŽg‚Á‚Ä‚¢‚Ü‚¹‚ñB
-@ƒtƒ@ƒCƒ‹‚ðíœ‚·‚é‚¾‚¯‚ÅƒAƒ“ƒCƒ“ƒXƒg[ƒ‹‚Å‚«‚Ü‚·B
-
-
-¡‹N“®•û–@
-
-@Actor83_1.exe ‚ðŽÀs‚µ‚Ä‰º‚³‚¢B
+ã€€DirectX 9.0 ä»¥é™
+ã€€2Dã‚²ãƒ¼ãƒ ãŒå¿«é©ã«å‹•ä½œã™ã‚‹CPU
+ã€€Direct Graphic å¯¾å¿œã®ãƒ“ãƒ‡ã‚ªã‚«ãƒ¼ãƒ‰
+ã€€Direct Sound å¯¾å¿œã®ã‚µã‚¦ãƒ³ãƒ‰ã‚«ãƒ¼ãƒ‰
 
 
-¡—V‚Ñ•û
+â– ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«æ–¹æ³•
 
-@œ‘€ì•û–@
-
-@@ƒJ[ƒ\ƒ‹ƒL[ ... ƒvƒŒƒCƒ„[EƒJ[ƒ\ƒ‹‚ÌˆÚ“®
-@@‚y           ... •ûŒüƒƒbƒN
-@@‚w           ... UŒ‚
-@@‚`           ... •ŠíØ‚è‘Ö‚¦
-@@‚r           ... ‚‘¬ˆÚ“®
-@@ƒXƒy[ƒX     ... ƒ|[ƒY‰æ–ÊH
-
-@@ƒvƒŒƒC’†‚Ç‚Ìƒ^ƒCƒ~ƒ“ƒO‚Å‚àƒGƒXƒP[ƒvƒL[‚ð‰Ÿ‚·‚ÆƒQ[ƒ€‚ðI—¹‚µ‚Ü‚·B
+ã€€ã‚¢ãƒ¼ã‚«ã‚¤ãƒ–ã®ä¸­èº«ã‚’ãƒ­ãƒ¼ã‚«ãƒ«ãƒ‡ã‚£ã‚¹ã‚¯ä¸Šã®ä»»æ„ã®å ´æ‰€ã«ã‚³ãƒ”ãƒ¼ã—ã¦ä¸‹ã•ã„ã€‚
 
 
-¡‘fÞ’ñ‹Ÿ
+â– ã‚¢ãƒ³ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«æ–¹æ³•
 
-@œ‰æ‘œ
-
-@@First Seed Material
-@@http://www.tekepon.net/fsm/
-
-@@‚«‚Ü‚®‚êƒAƒtƒ^[
-@@http://www5d.biglobe.ne.jp/~gakai/
-
-@@‚Ò‚Û‚â
-@@http://piposozai.blog76.fc2.com/
-
-@@‰Pˆä‚Ì‰ï ‚q‚o‚fƒcƒN[ƒ‹‘fÞŽx•”
-@@http://usui.moo.jp/rpg_tukuru.html
-
-@œ‚a‚f‚l
-
-@@ƒtƒŠ[‰¹Šy‘fÞ H/MIX GALLERY
-@@http://www.hmix.net/
-
-@œ‚r‚d
-
-@@ƒtƒŠ[‰¹Šy‘fÞ Senses Circuit
-@@http://www.senses-circuit.com/
+ã€€ãƒ¬ã‚¸ã‚¹ãƒˆãƒªãªã©ã¯ä¸€åˆ‡ä½¿ã£ã¦ã„ã¾ã›ã‚“ã€‚
+ã€€ãƒ•ã‚¡ã‚¤ãƒ«ã‚’å‰Šé™¤ã™ã‚‹ã ã‘ã§ã‚¢ãƒ³ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã§ãã¾ã™ã€‚
 
 
-¡Žæ‚èˆµ‚¢Ží•Ê
+â– èµ·å‹•æ–¹æ³•
 
-@ƒtƒŠ[ƒ\ƒtƒg
-
-
-¡»ìŽÒ
-
-@cerulean.charlotte
-
-@Site: http://cerulean.fam.cx/
-@Mail: cerulean.charlotte@gmail.com
+ã€€Actor83_1.exe ã‚’å®Ÿè¡Œã—ã¦ä¸‹ã•ã„ã€‚
 
 
-¡ƒ‰ƒCƒZƒ“ƒX•\‹L
+â– éŠã³æ–¹
+
+ã€€â—æ“ä½œæ–¹æ³•
+
+ã€€ã€€ã‚«ãƒ¼ã‚½ãƒ«ã‚­ãƒ¼ ... ãƒ—ãƒ¬ã‚¤ãƒ¤ãƒ¼ãƒ»ã‚«ãƒ¼ã‚½ãƒ«ã®ç§»å‹•
+ã€€ã€€ï¼º           ... æ–¹å‘ãƒ­ãƒƒã‚¯
+ã€€ã€€ï¼¸           ... æ”»æ’ƒ
+ã€€ã€€ï¼¡           ... æ­¦å™¨åˆ‡ã‚Šæ›¿ãˆ
+ã€€ã€€ï¼³           ... é«˜é€Ÿç§»å‹•
+ã€€ã€€ã‚¹ãƒšãƒ¼ã‚¹     ... ãƒãƒ¼ã‚ºç”»é¢ï¼Ÿ
+
+ã€€ã€€ãƒ—ãƒ¬ã‚¤ä¸­ã©ã®ã‚¿ã‚¤ãƒŸãƒ³ã‚°ã§ã‚‚ã‚¨ã‚¹ã‚±ãƒ¼ãƒ—ã‚­ãƒ¼ã‚’æŠ¼ã™ã¨ã‚²ãƒ¼ãƒ ã‚’çµ‚äº†ã—ã¾ã™ã€‚
+
+
+â– ç´ ææä¾›
+
+ã€€â—ç”»åƒ
+
+ã€€ã€€First Seed Material
+ã€€ã€€http://www.tekepon.net/fsm/
+
+ã€€ã€€ãã¾ãã‚Œã‚¢ãƒ•ã‚¿ãƒ¼
+ã€€ã€€http://www5d.biglobe.ne.jp/~gakai/
+
+ã€€ã€€ã´ã½ã‚„
+ã€€ã€€http://piposozai.blog76.fc2.com/
+
+ã€€ã€€è‡¼äº•ã®ä¼š ï¼²ï¼°ï¼§ãƒ„ã‚¯ãƒ¼ãƒ«ç´ ææ”¯éƒ¨
+ã€€ã€€http://usui.moo.jp/rpg_tukuru.html
+
+ã€€â—ï¼¢ï¼§ï¼­
+
+ã€€ã€€ãƒ•ãƒªãƒ¼éŸ³æ¥½ç´ æ H/MIX GALLERY
+ã€€ã€€http://www.hmix.net/
+
+ã€€â—ï¼³ï¼¥
+
+ã€€ã€€ãƒ•ãƒªãƒ¼éŸ³æ¥½ç´ æ Senses Circuit
+ã€€ã€€http://www.senses-circuit.com/
+
+
+â– å–ã‚Šæ‰±ã„ç¨®åˆ¥
+
+ã€€ãƒ•ãƒªãƒ¼ã‚½ãƒ•ãƒˆ
+
+
+â– è£½ä½œè€…
+
+ã€€cerulean.charlotte
+
+ã€€Site: http://cerulean.fam.cx/
+ã€€Mail: cerulean.charlotte@gmail.com
+
+
+â– ãƒ©ã‚¤ã‚»ãƒ³ã‚¹è¡¨è¨˜
 
 ==== MT19937 ====
 
