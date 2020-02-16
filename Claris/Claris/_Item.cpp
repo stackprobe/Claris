@@ -7,7 +7,7 @@ Item_t *CreateItem(int picId, int attack, int defense, int hp)
 	errorCase(!m_isRange(defense, 0, IMAX));
 	errorCase(!m_isRange(hp, 0, IMAX));
 
-	Item_t *i = nb(Item_t);
+	Item_t *i = nb_(Item_t);
 
 	i->PicId = picId;
 	i->Attack = attack;

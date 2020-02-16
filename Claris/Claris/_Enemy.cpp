@@ -8,7 +8,7 @@ Enemy_t *CreateEnemy(MapCell_t *owner, int enemyId, double x, double y, int subV
 	// y
 	errorCase(subVal < -IMAX || IMAX < subVal);
 
-	Enemy_t *i = nb(Enemy_t);
+	Enemy_t *i = nb_(Enemy_t);
 
 	i->Owner = owner;
 	i->EnemyId = enemyId;

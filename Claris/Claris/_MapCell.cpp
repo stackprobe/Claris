@@ -8,7 +8,7 @@ MapCell_t *CreateMapCell(int jimenId, int kouzouId, int enemyId, int charaWallFl
 	// charaWallFlag
 	// tamaWallFlag
 
-	MapCell_t *i = nb(MapCell_t);
+	MapCell_t *i = nb_(MapCell_t);
 
 	i->JimenId = jimenId;
 	i->KouzouId = kouzouId;
